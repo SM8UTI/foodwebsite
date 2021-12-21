@@ -1,6 +1,8 @@
 # Foodwebsite (Frontend)
-This is Full website Template for a food delivery or food restaurant.
-made only Html,css and Javascript.
+This is Full website Template for a food delivery or food restaurant. 
+Made only Html , CSS and Javascript.
+
+## Not Responsive ##
 
 ##Live Demo : 
 

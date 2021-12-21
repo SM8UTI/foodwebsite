@@ -4,7 +4,7 @@ Made only Html , CSS and Javascript.
 
 ## Not Responsive ##
 
-##Live Demo : 
+##Live Demo : https://sm8uti.github.io/foodwebsite/
 
 <img src="food.png">
 
